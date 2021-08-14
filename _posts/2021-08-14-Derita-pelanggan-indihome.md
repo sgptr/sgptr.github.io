@@ -49,4 +49,19 @@ Ketika saya mengakses http://p01.notifa.info/3fsmd3/wsadmin/auth/login, halaman 
 ![indihome3.png]({{site.baseurl}}/images/indigo/indihome3.png)
 
 Lalu link berikutnya adalah http://p01.notifa.info/info/apc/ :
+![indihome4.png]({{site.baseurl}}/images/indigo/indihome4.png)
+
+
 Halaman ini lebih menarik karena berisi statistik dan juga struktur kode yang digunakan untuk website tracker ini. Pada tanggal 14 September 2020 03:00 WIB, pada tab status total hits mencapai angka 26,681,371,055 (26,6 miliar).
+![indihome5.png]({{site.baseurl}}/images/indigo/indihome5.png)
+
+Pada tanggal 15 September 2020, total hits mencapai angka 27,577,810,224 (27,5 miliar)
+![indihome6.png]({{site.baseurl}}/images/indigo/indihome6.png)
+
+Maka bisa disimpulkan, dalam waktu sehari website tracker milik Indihome tersebut mendapatkan 1 miliar hits. Lalu jika kita berpindah ke tab Visualise Partition, maka akan didapatkan tampilan seperti berikut. Susunan dibalik layar website tracker milik Indihome
+![indihome7.png]({{site.baseurl}}/images/indigo/indihome7.png)
+
+Sampai saat ini saya masih belum tau apa alasan Indihome melakukan ini terhadap para pelanggan mereka. Namun kita semua tahu bahwa data seperti browsing history selama ini adalah data yang laku dijual ke pengiklan.
+
+sumber: [Teguh.co](https://teguh.co/)
+
