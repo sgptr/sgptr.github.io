@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Indihome adalah salah satu penyedia layanan internet terbesar di Indonesia. Akhir 2019 setidaknya mereka memiliki 7 juta pelanggan yang tersebar di seluruh Indonesia. Tahun 2020 ini mereka menargetkan memiliki 8,3 juta pelanggan. Total pendapatan perusahaan BUMN ini juga fantastis, setiap tahunnya 18 Triliun. Dibalik semua pencapaian itu, Indihome selama ini dikenal sebagai penyedia layanan internet dengan kualitas layanan yang paling banyak mendapatkan keluhan. Keluhan itu sendiri sering kita lihat di berbagai media sosial yang dibagikan oleh para pelanggan mereka.
 
