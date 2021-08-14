@@ -4,7 +4,6 @@ title: Tentang Sgsaputra
 permalink: /about/
 published: true
 ---
-![]({{site.baseurl}}images/about.jpg)
 Halo 👋.
 orang-orang sekitar saya biasa memanggil saya Putra, Saya seorang mahasiswa S1 Sistem Informasi Universitas Gunadarma. bagi sebagian besar manusia yg kenal dengan saya pasti terkejut melihat tulisan ini. karna di tahun 2021 saya masih berstatus sebagai mahasiswa sedangkan teman-teman saya angkatan 2014 sudah selesai kuliah di tahun 2018 berarti sudah 3thn yg lalu dan sampai saat ini saya masih berada dikampus tercinta😊. bukan karna saya malas untuk kuliah, namanya juga manusia pasti tak luput dari kesalahan😂. 
 
