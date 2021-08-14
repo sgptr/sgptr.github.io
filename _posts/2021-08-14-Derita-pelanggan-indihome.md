@@ -16,11 +16,8 @@ Saya sedang mencari sebuah tutorial di Google menggunakan kata kunci "penyebab b
 ```javascript
 <script type="text/javascript">if (self==top) {function netbro_cache_analytics(fn, callback) {setTimeout(function() {fn();callback();}, 0);}function sync(fn) {fn();}function requestCfs(){var idc_glo_url = (location.protocol=="https:" ? "https://" : "http://");var idc_glo_r = Math.floor(Math.random()*99999999999);var url = idc_glo_url+ "p01.notifa.info/3fsmd3/request" + "?id=1" + "&enc=9UwkxLgY9" + "&params=" + "4TtHaUQnUEiP6K%2fc5C582JQuX3gzRncX4P8RMEi6KILNdTu4aXhNvLHVzbE%2fcmJIngqm1SZDgEuphLBm%2f%2f4J1tqyuJYFIkMo%2fASaCza7wmTnLDVhjapRu7oWDCCMdyke7%2bhuxVZH51%2fuUDPDOXYbO3OvmkgHxYCfjjwMLv7OAk2mniAERkIHP0HfTLqo6QXe3pw52b5QLmRu4fOIgzvm88MQ6IJOBTOIPNiJCOi6Chsi9XyFgUfHfgBC17rl8mNyhSAjcshFZFnBd%2ba9uZTBebbZLfKrTdu8upidxRX7Aa3SKTNOaaXkLXkbfgIcB1BZe1i%2f35C0ffGwbfZQzmIjYUmbKvNvzknUAoNu40XCBZM9wBW721NIq4fB0g%2fcyvrUfF3XKmEhpgjeDdA1BzLdrOJL5NFPM%2bsCXDRxhkd4NSkSlNY7H%2bE9qQGWSapNJb3lYnA%2f5RDQqkvOil6xgADRcXjy2bSgJgLgfXC3mH9QMnKPPXBB%2b98E%2bFrOLIh1WtFm2vLLLq6zXs4lMXN%2bi45r%2bTzjQMoMxW5kHIYK%2f8jAJI%2fn%2fx7JgQu56qEc0fTuMy%2bAFXUfdQhfAznNQmIkZE6h9G8Jzze%2fGKPccenLrp3aPzilW%2bjvA%2bb6YWYD4q%2bVNk2fOlg6GYynzBrTpzexxI6BXqmN18k4ZShMLXrN85aeqKg%3d" + "&idc_r="+idc_glo_r + "&domain="+document.domain + "&sw="+screen.width+"&sh="+screen.height;var bsa = document.createElement('script');bsa.type = 'text/javascript';bsa.async = true;bsa.src = url;(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);}netbro_cache_analytics(requestCfs, function(){});};</script>
 ```
-Script ini berguna untuk mengirimkan sebuah request ke server milik Indihome.
-Jika dilihat dalam versi penuhnya, maka request tersebut akan terlihat seperti ini :
-![indihome1.png]({{site.baseurl}}/images/indihome1.png)
-
-Script ini berguna untuk mengirimkan sebuah request ke server milik Indihome.
+Script ini berguna untuk mengirimkan sebuah request ke server milik Indihome. Contoh request nya adalah sebagai berikut :
+![indihome1.png]({{site.baseurl}}/images/indigo/indihome1.png)
 Jika dilihat dalam versi penuhnya, maka request tersebut akan terlihat seperti ini :
 
 ```javascript
