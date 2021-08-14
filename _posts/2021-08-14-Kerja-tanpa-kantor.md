@@ -1,7 +1,6 @@
 ---
 published: true
 ---
-[## Kerja tanpa kantor? Siapa takut](https://lms.onnocenter.or.id/)
 Bagi sebagian orang, peralatan komputer dan infrastruktur Internet hanyalah sebatas alat bantu pekerjaan sehari-hari-nya. Memang betul, bagi sebagian orang ini, sebetulnya gaya hidup mereka tidak berbeda jauh dengan kebanyakan orang yang ada pada saat ini.
 
 Akan tetapi, pada sisi ekstrim, peralatan komputer dan infrastruktur Internet dapat mengubah gaya hidup, budaya, pola kerja seseorang atau bahkan organisasi. Perubahan gaya hidup, dan pola kerja merupakan beberapa hal yang secara kasat mata akan terlihat dengan mudah. Pada bagian ini, perubahan gaya hidup yang kasat mata akan di ketengahkan. Beberapa perubahan tersebut, tampaknya hampir tidak dapat di mengerti oleh sebagian orang yang masih menggunakan paradigma lama dalam kesehariannya. 
@@ -32,5 +31,6 @@ Harus di akui bahwa biasanya ada ketakutan mendasar pada sebagian besar orang un
 “Rizki dan pahala hanya tergantung pada tingkat / jumlah amal dan ibadah”
 
 
-yang kita lakukan, apapun jenis pekerjaan yang kita lakukan. Bahkan biasanya rizki yang diperoleh jauh lebih melimpah rasanya di bandingkan apa yang kita berikan pada saat beramal. 
+yang kita lakukan, apapun jenis pekerjaan yang kita lakukan. Bahkan biasanya rizki yang diperoleh jauh lebih melimpah rasanya di bandingkan apa yang kita berikan pada saat beramal.
 
+[## Kerja tanpa kantor? siapa takut](https://lms.onnocenter.or.id/)
