@@ -43,7 +43,7 @@ Jadi setiap kali kamu mengunjungi sebuah website yang belum menggunakan SSL (mas
 ### Dibalik p01.notifa.info
 
 Karena saya merasa cukup terganggu da juga penasaran, saya kemudian mencari tau apa yang ada dibalik website tracker milik Indihome ini hanya bermodalkan Google. Kemudian saya mendapatkan 2 link berikut :
-![]({{site.baseurl}}/https://raw.githubusercontent.com/sgptr/sgptr.github.io/master/images/indigo/indihome2.png)
+![indihome1.png]({{site.baseurl}}/images/indigo/indihome2.png)
 
 Ketika saya mengakses http://p01.notifa.info/3fsmd3/wsadmin/auth/login, halaman tersebut merupakan tempat untuk login internal yang mungkin digunakan content management.
 
