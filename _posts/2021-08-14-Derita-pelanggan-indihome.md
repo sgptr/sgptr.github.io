@@ -43,9 +43,10 @@ Jadi setiap kali kamu mengunjungi sebuah website yang belum menggunakan SSL (mas
 ### Dibalik p01.notifa.info
 
 Karena saya merasa cukup terganggu da juga penasaran, saya kemudian mencari tau apa yang ada dibalik website tracker milik Indihome ini hanya bermodalkan Google. Kemudian saya mendapatkan 2 link berikut :
-![indihome1.png]({{site.baseurl}}/images/indigo/indihome2.png)
+![indihome2.png]({{site.baseurl}}/images/indigo/indihome2.png)
 
-Ketika saya mengakses http://p01.notifa.info/3fsmd3/wsadmin/auth/login, halaman tersebut merupakan tempat untuk login internal yang mungkin digunakan content management.
+Ketika saya mengakses http://p01.notifa.info/3fsmd3/wsadmin/auth/login, halaman tersebut merupakan tempat untuk login internal yang mungkin digunakan content management, tampilannya adalah sebagai berikut :
+![indihome3.png]({{site.baseurl}}/images/indigo/indihome3.png)
 
 Lalu link berikutnya adalah http://p01.notifa.info/info/apc/ :
 Halaman ini lebih menarik karena berisi statistik dan juga struktur kode yang digunakan untuk website tracker ini. Pada tanggal 14 September 2020 03:00 WIB, pada tab status total hits mencapai angka 26,681,371,055 (26,6 miliar).
