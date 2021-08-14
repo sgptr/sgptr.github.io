@@ -19,6 +19,8 @@ informasi **PGPKEY** saya ada dibawah ini:
 /* Comment: Type:	3,072-bit RSA (secret key available) */
 /* Comment: Usage:	Signing, Encryption, Certifying User-IDs */
 /* Comment: Fingerprint:	FF1437E7A09E6C39D45731EAC005707E7E92ABFB */
+
+
 mQGNBGEJBPEBDADelD8cUZ9m/tBX6kVmSYIpmS9axIHS+77pC25cL/8DiI9zPUX2
 /3s1zGFNbkb+wWeUqtMpGhNWR2KubwB7djAVgRXB+0QbENs9gPxVcAuevk74S/9a
 pZTiahhDdc0+zTrfQx7v0trKDUync3MSEwNKBuscqvJzeCD5/3Ff6zeN818c5B9v
@@ -57,8 +59,9 @@ BPVQU6Y/WXWIgzEut5j4hZZ0I9W6x1DtaJszhVYUidK78yPFO7MGmW1teLiXbtC5
 P79T7rbi6XHqsDXlNCEQmOvOJUOfZq2j3P79b6fgjO9iGWpmeGsmZBkD86t4RAq8
 7u1g1K/ATDpPHVlNNY+iYhmMW0IBmg==
 =7xTh
+
+
 /* END PGP PUBLIC KEY BLOCK */
-;
 ```
 
 
