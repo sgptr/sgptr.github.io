@@ -63,5 +63,4 @@ Maka bisa disimpulkan, dalam waktu sehari website tracker milik Indihome tersebu
 
 Sampai saat ini saya masih belum tau apa alasan Indihome melakukan ini terhadap para pelanggan mereka. Namun kita semua tahu bahwa data seperti browsing history selama ini adalah data yang laku dijual ke pengiklan.
 
-sumber: [Teguh.co](https://teguh.co/)
-
+-narsum: [Teguh.co](https://teguh.co/)
