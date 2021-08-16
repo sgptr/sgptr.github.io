@@ -26,7 +26,7 @@ Diterima atau enggaknya itu tergantung kebijakan perusahaan ya, tapi mah ktp ora
 
 Kalo mereka ttp ga mau, mending skip aja deh.
 
-Ini bukan pencegahan ya, sebagai pemegang data mah kita cuma bisa mewanti-wanti dan memperkuat bukti. Sisanya ya tanggung jawab pengelola data.
+sebagai pemegang data mah kita cuma bisa mewanti-wanti dan memperkuat bukti. Sisanya ya tanggung jawab pengelola data.
 
 Fungsinya apa?
 
