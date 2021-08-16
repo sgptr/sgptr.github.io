@@ -13,6 +13,10 @@ orang-orang sekitar saya biasa memanggil saya Putra, Saya seorang mahasiswa S1 S
 
 Kisah bermula diawal semester 3, waktu itu saya masih giat-giatnya kuliah ternyata ada godaan yg saat itu cukup menarik untuk saya **"U.U.D"**, akhirnya saya memberanikan diri untuk bekerja sebagai freelancer dari project instansi pemerintah sampai perusahaan-perusahaan saya hajar!. diawal, Project berjalan selama 6 bulan **"Satu semester diawal sebagai mahasiswa siluman!!!"**, waktu terus berjalan project semakin padat dan hasilnya alhamdulillah cukup untuk saya nikmati bersama orang tua dan kekasih😂. sampai akhirnya saya tertinggal jauh dan matakuliah saya banyak yg harus diulang🥺. dari situlah awal mulanya godaan seorang remaja yg sekiranya ingin mempunyai penghasilan tanpa pikir panjang. saya akui, rasa bersalah saya kepada kedua orang tua masih terpikirkan hingga saat ini **"Maafin aku ya pak, bu"**. Tetapi dari segi sisi positifnya setidaknya saya mendapatkan pengalaman yg berharga.
 
+
+**"ya kalo hidup lurus-lurus aja mah namanya bukan hidup"**.
+
+
 saat ini saya masih berusaha untuk lulus dan sepertinya kelulusan saya menanti di tahun 2021 ini.
 
 ## Semangat!!!
