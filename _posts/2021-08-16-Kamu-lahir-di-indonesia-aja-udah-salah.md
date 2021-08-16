@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ![dp.png]({{ site.baseurl }}/images/dp.png)
 Selama ini saya sering mendapatkan pertanyaan, bagaimana cara mengamankan data pribadi kita di internet. Sebelum pertanyaan itu saya jawab, saya biasanya akan mengatakan, **“Kamu lahir di Indonesia aja udah salah.”** Sory, tapi itulah kenyataannya. Sekeras apa pun kamu berusaha menjaga data pribadi kamu, itu akan sia-sia karena pemerintah sebagai pengelola data warganya sering sembarangan dengan semua data tersebut.
