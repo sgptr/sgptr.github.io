@@ -4,7 +4,7 @@ title: Tentang Sgsaputra
 permalink: /about/
 published: true
 ---
-						![about.png]({{site.baseurl}}/images/about.png)
+![about.png]({{site.baseurl}}/images/about.png)
 
 
 Halo 👋.
