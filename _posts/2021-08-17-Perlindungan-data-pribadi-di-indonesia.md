@@ -31,6 +31,7 @@ Setidaknya ada 3 pihak yang terlibat dan menjadi bagian penting dalam pengaturan
 Saat ini, dokumen yang berisi data pribadi baik yang sifatnya data umum maupun spesifik, dan paling sering diminta oleh berbagai pihak, paling sering tercecer dan bocor adalah: 
 
 - KTP
+
 - Kartu Keluarga
 
 ![pd4.png]({{ site.baseurl }}/images/pd/pd4.png)
