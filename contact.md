@@ -11,7 +11,7 @@ jika anda ingin membagikan informasi yg bersifat rahasia kepada saya, silakan **
 
 informasi **PGPKEY** saya ada dibawah ini:
 
-```javascript
+```python
 /* BEGIN PGP PUBLIC KEY BLOCK */
 /* Comment: User-ID:	ptrdef <ptrbackup@hotmail.com> */
 /* Comment: Created:	8/3/2021 3:57 PM */
@@ -63,8 +63,3 @@ P79T7rbi6XHqsDXlNCEQmOvOJUOfZq2j3P79b6fgjO9iGWpmeGsmZBkD86t4RAq8
 
 /* END PGP PUBLIC KEY BLOCK */
 ```
-
-
-
-
-
