@@ -21,31 +21,31 @@ Sebelum memulai, ada beberapa depedencies yang harus kamu install. Perlu diketah
 
 **Install Dependencies**
 
-```brew install python3 libusb```
+```javascript brew install python3 libusb```
 
-```pip3 install mvt```
+```javascript pip3 install mvt```
 
 **Install libimobiledevice**
 
-```brew install --HEAD libimobiledevice```
+```javascript brew install --HEAD libimobiledevice```
 
 Jika sudah, coba hubungkan perangkat iPhone atau iPad yang kamu gunakan ke komputer menggunakan kabel USB lalu jalankan perintah berikut :
 
-```ideviceinfo```
+```javascript ideviceinfo```
 
 **Backup Perangkat Menggunakan libimobiledevice**
 
 Ketika sedang backup perangkat yang kamu gunakan, pastikan opsi encryption dalam keadaan aktif. Karena menurut panduan dari MVT, backup yang terenkripsi memiliki lebih banyak data ketimbang backup yang tidak terenkripsi.
 
-```idevicebackup2 backup encryption on```
+```javascript idevicebackup2 backup encryption on```
 
 Jika sebelumnya backup sudah pernah dilakukan melalui aplikasi iTunes dan kamu sudah menerapkan password untuk backup, jalankan perintah berikut :
 
-```idevicebackup2 backup encryption on --p passwordbackupkamu```
+```javascript idevicebackup2 backup encryption on --p passwordbackupkamu```
 
 Setelah itu kamu bisa mulai melakukan backup menggunakan perintah berikut:
 
-```idevicebackup2 backup --full /path/to/backup/```
+```javascript idevicebackup2 backup --full /path/to/backup/```
 
 Jika berhasil maka tampilannya sebagai berikut :
 
@@ -59,7 +59,7 @@ Proses backup akan memakan cukup banyak waktu dan dibutuhkan waktu sekitar beber
 
 **Decrypting Backup**
 
-```mvt-ios decrypt-backup -p password -d /path/to/decrypted /path/to/backup```
+```javascript mvt-ios decrypt-backup -p password -d /path/to/decrypted /path/to/backup```
 
 Jika proses decrypting berjalan normal, maka tampilannya akan seperti berikut ini :
 
@@ -69,15 +69,15 @@ Jika proses decrypting berjalan normal, maka tampilannya akan seperti berikut in
 
 Download indicators of compromise file dari Amnesty International Github repo.
 
-```wget https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/pegasus.stix2```
+```javascript wget https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/pegasus.stix2```
 
 Buat folder untuk hasil dari pemeriksaan.
 
-```mkdir hasil```
+```javascript mkdir hasil```
 
 Mulai jalankan pemeriksaan.
 
-```mvt-ios check-backup --output /path/to/hasil /path/to/backup/udid/ --iocs pegasus.stix2```
+```javascript mvt-ios check-backup --output /path/to/hasil /path/to/backup/udid/ --iocs pegasus.stix2```
 
 ![pg5.png]({{ site.baseurl }}/images/pg/pg5.png)
 
@@ -93,15 +93,15 @@ Untuk mulai melakukan pemeriksaan terhadap perangkat Android yang kamu gunakan, 
 
 **Install Dependencies**
 
-```brew install android-platform-tools```
+```javascript brew install android-platform-tools```
 
 **Downloading APKs**
 
-```mvt-android download-apks --output /path/to/folder```
+```javascript mvt-android download-apks --output /path/to/folder```
 
 Jika kamu ingin mengaktifkan opsi pemeriksaan menggunakan VirusTotal, jalankan perintah berikut :
 
-```mvt-android download-apks --output /path/to/folder --virustotal```
+```javascript mvt-android download-apks --output /path/to/folder --virustotal```
 
 **Pemeriksaan Melalui Backup SMS Android**
 
@@ -109,7 +109,7 @@ Beberapa serangan terhadap Android dilakukan dengan mengirimkan link berbahaya m
 
 Kamu bisa menggunakan adb untuk mengekstrak backup hanya untuk SMS.
 
-```adb backup com.android.providers.telephony```
+```javascript adb backup com.android.providers.telephony```
 
 ![pg8.png]({{ site.baseurl }}/images/pg/pg8.png)
 
@@ -120,15 +120,15 @@ Kamu harus menyetujui backup di layar HP yang kamu gunakan dan akan diminta untu
 
 Selanjutnya kamu harus menggunakan Android Backup Extractor untuk mengubahnya menjadi format file yang dapat dibaca. Pastikan kamu sudah menginstall Java dan jalankan perintah berikut:
 
-```java -jar ~/Download/abe.jar unpack backup.ab backup.tar```
+```javascript java -jar ~/Download/abe.jar unpack backup.ab backup.tar```
 
-```tar xvf backup.tar```
+```javascript tar xvf backup.tar```
 
 Jika backup dienkripsi, kamu akan diminta untuk memasukkan password oleh Android Backup Extractor.
 
 **Ekstrak SMS yang Berisi Link Menggunakan MVT**
 
-```mvt-android check-backup --output . . --iocs pegasus.stix2```
+```javascript mvt-android check-backup --output . . --iocs pegasus.stix2```
 
 Untuk Android, hasil pemeriksaan nantinya akan ditampilkan di output terminal.
 
