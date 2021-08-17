@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ![pd1.png]({{ site.baseurl }}/images/pd/pd1.png)
 
@@ -254,4 +254,4 @@ JANGKA PANJANG
 
 -full artikel : 
 
-<blockquote class="twitter-tweet" data-theme="dark"><p lang="in" dir="ltr">Hampir semua slide presentasi saya berakhir di Slideshare, biar bisa dibaca dan dikritisi siapapun yang mau. <br><br>Ini slide diskusi dg Direktorat Kependudukan dan JamSos Bappenas tadi pagi. Saya usulkan solusi pengganti fotokopi KTP buat verifikasi nasional.<a href="https://t.co/C6vfBz58FE">https://t.co/C6vfBz58FE</a> <a href="https://t.co/mbAwA03HOe">pic.twitter.com/mbAwA03HOe</a></p>&mdash; Ismail Fahmi (@ismailfahmi) <a href="https://twitter.com/ismailfahmi/status/1427274822568931333?ref_src=twsrc%5Etfw">August 16, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="in" dir="ltr">Hampir semua slide presentasi saya berakhir di Slideshare, biar bisa dibaca dan dikritisi siapapun yang mau. <br><br>Ini slide diskusi dg Direktorat Kependudukan dan JamSos Bappenas tadi pagi. Saya usulkan solusi pengganti fotokopi KTP buat verifikasi nasional.<a href="https://t.co/C6vfBz58FE">https://t.co/C6vfBz58FE</a> <a href="https://t.co/mbAwA03HOe">pic.twitter.com/mbAwA03HOe</a></p>&mdash; Ismail Fahmi (@ismailfahmi) <a href="https://twitter.com/ismailfahmi/status/1427274822568931333?ref_src=twsrc%5Etfw">August 16, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
