@@ -21,3 +21,8 @@ Untuk mengeceknya, masyarakat dapat menggunakan aplikasi Peduli Lindungi dan mel
 Alhasil, jasa pencetak secara otomatis mendapatkan kumpulan data kependudukan seperti NIK, nama lengkap dan tanggal lahir yang berharga dan sangat berisiko disalahgunakan. Alfons menyarankan agar masyarakat lebih memilih metode pengecekan sertifikat vaksin menggunakan aplikasi gawai untuk pemindai QR Code di mal atau tempat makan direkomendasikan untuk digunakan dan cukup aman dari potensi kebocoran data. Selain itu, data yang masuk ke aplikasi Peduli Lindungi jika diolah dengan baik akan menjadi maha data yang berharga dan dapat digunakan untuk keperluan lain, seperti tracing atau memantau kedisiplinan mal dan restoran menjalankan kebijakan PPKM dan tidak melewati batas maksimal pengunjung yang diperbolehkan. Selain itu, Alfons juga menyarankan agar pemerintah ada baiknya mempertimbangkan aplikasi Peduli Lindungi untuk menutupi informasi kependudukan dalam sertifikat vaksinasi Covid-19. “Nomor NIK ini bersifat melekat pada penduduk dan berlaku seumur hidup. Bila digabungkan dengan data kependudukan lain seperti nama lengkap atau tanggal lahir, maka informasi ini menjadi data yang berharga dan rentan dieksploitasi, sehingga harus diproteksi dengan baik,” katanya.
 
 -sumber: [bisnis.com](https://teknologi.bisnis.com/)
+
+
+```
+test 123
+```
