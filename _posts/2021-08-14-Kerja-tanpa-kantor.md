@@ -1,10 +1,6 @@
 ---
 published: true
 ---
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
 Bagi sebagian orang, peralatan komputer dan infrastruktur Internet hanyalah sebatas alat bantu pekerjaan sehari-hari-nya. Memang betul, bagi sebagian orang ini, sebetulnya gaya hidup mereka tidak berbeda jauh dengan kebanyakan orang yang ada pada saat ini.
 
 Akan tetapi, pada sisi ekstrim, peralatan komputer dan infrastruktur Internet dapat mengubah gaya hidup, budaya, pola kerja seseorang atau bahkan organisasi. Perubahan gaya hidup, dan pola kerja merupakan beberapa hal yang secara kasat mata akan terlihat dengan mudah. Pada bagian ini, perubahan gaya hidup yang kasat mata akan di ketengahkan. Beberapa perubahan tersebut, tampaknya hampir tidak dapat di mengerti oleh sebagian orang yang masih menggunakan paradigma lama dalam kesehariannya. 
