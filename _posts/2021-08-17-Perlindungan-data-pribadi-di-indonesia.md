@@ -10,7 +10,9 @@ Definisi
 Untuk istilah "data pribadi" saya merujuk Pasal 3 RUU PDP.
 
 Data Pribadi terdiri atas:
+
 a. Data Pribadi yang bersifat umum; dan
+
 b. Data Pribadi yang bersifat spesifik.
 
 Detail datanya seperti ini.
