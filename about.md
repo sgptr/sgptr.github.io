@@ -16,7 +16,7 @@ saat ini saya masih berusaha untuk lulus dan sepertinya kelulusan saya menanti d
 
 ## Semangat!!!
 
--admirer of :
+-inspiration :
 
 [Teguh Aprianto](https://teguh.co/) Founder Of [hack.co.id](https://www.hack.co.id/)
 
