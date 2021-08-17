@@ -3,6 +3,8 @@ published: true
 ---
 Derita Pelanggan Indihome, Sudah Bayar Datanya Malah Dicuri.
 
+**"Artikel ini berasal dari Mas [Teguh Aprianto](https://teguh.co/) Founder dari [hack.co.id](https://www.hack.co.id/)"**
+
 Indihome adalah salah satu penyedia layanan internet terbesar di Indonesia. Akhir 2019 setidaknya mereka memiliki 7 juta pelanggan yang tersebar di seluruh Indonesia. Tahun 2020 ini mereka menargetkan memiliki 8,3 juta pelanggan. Total pendapatan perusahaan BUMN ini juga fantastis, setiap tahunnya 18 Triliun. Dibalik semua pencapaian itu, Indihome selama ini dikenal sebagai penyedia layanan internet dengan kualitas layanan yang paling banyak mendapatkan keluhan. Keluhan itu sendiri sering kita lihat di berbagai media sosial yang dibagikan oleh para pelanggan mereka.
 
 Saya sendiri juga menggunakan Indihome untuk internet di rumah, karena tak ada pilihan lain. Saat ini rumah saya hanya terjangkau layanan milik Indihome. Setelah menjadi pelanggan Indihome sekian tahun, saya merasakan berbagai macam gangguan yang saya dapatkan selama berlangganan. Setidaknya ketika tulisan ini ditulis, saya akan menjabarkan gangguan yang saya dapatkan yang menurut saya adalah perbuatan yang melanggar hukum. /
