@@ -85,7 +85,7 @@ Jika pemeriksaan berhasil, maka kamu akan menemukan beberapa file di direktori m
 
 ![pg6.png]({{ site.baseurl }}/images/pg/pg6.png)
 
-**Pengguna Android**###
+### **Pengguna Android**
 
 Untuk mulai melakukan pemeriksaan terhadap perangkat Android yang kamu gunakan, kamu harus menghubungkan perangkat Android milik kamu ke komputer dan juga harus mengaktifkan USB Debugging.
 
