@@ -33,4 +33,4 @@ Merujuk pada pembukaan Undang-Undang Dasar 1945, bahwa kita masih berada di pint
 
 Tugas para penguasa untuk berusaha semaksimal mungkin memerdekakan rakyatnya secara merata dan adil. Di samping itu juga, kita sebagai warga negara Indonesia mempunyai peran masing-masing untuk mengisi kemerdekaan. Yakni membawa bangsa dan rakyat agar dapat merasakan kemerdekaan yang sesungguhnya dan seadil-adilnya.
 
--artikel : [benarkah kita sudah merdeka?](https://yoursay.suara.com/kolom/2021/08/16/133327/benarkah-kita-sudah-merdeka)
+-sumber : [benarkah kita sudah merdeka?](https://yoursay.suara.com/kolom/2021/08/16/133327/benarkah-kita-sudah-merdeka)
