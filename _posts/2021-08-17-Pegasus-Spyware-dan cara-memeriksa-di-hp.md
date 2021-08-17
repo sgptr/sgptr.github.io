@@ -15,7 +15,7 @@ Namun sekarang kita bisa mengucapkan terima kasih kepada Amnesty International, 
 
 Mulai dari sekarang kamu bisa melakukan pemeriksaan secara mandiri menggunakan [MVT (Mobile Verification Toolkit](https://github.com/mvt-project/mvt). Berikut panduan untuk pengguna iOS dan juga Android.
 
-**Pengguna iOS (iPhone dan iPad)**###
+### **Pengguna iOS (iPhone dan iPad)**
 
 Sebelum memulai, ada beberapa depedencies yang harus kamu install. Perlu diketahui ketika menulis panduan ini saya menggunakan MacOS.
 
