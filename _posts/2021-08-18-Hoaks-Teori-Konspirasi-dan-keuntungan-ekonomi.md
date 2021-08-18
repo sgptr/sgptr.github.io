@@ -28,6 +28,8 @@ Yang di posisi bawah piramida, mengambil remah-remah keuntungan ekonomi dengan m
 
 ![hx4.png]({{ site.baseurl }}/images/hx/hx4.png)
 
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="in" dir="ltr">Dengarkan ini baik-baik. Ini tahun 2017, saat itu yang populer nyari duwit adalah dari adsense website. Maka mareka bikin hoaks melalui websites.<br><br>Lalu fast forward ke 2019/2021. Kanal paling populer cari adsense? <br><br>YouTube!<br><br>Maka jadi YouTuber hoaks sudah jadi keniscayaan. <a href="https://t.co/dWp8UhrHho">pic.twitter.com/dWp8UhrHho</a></p>&mdash; Ismail Fahmi (@ismailfahmi) <a href="https://twitter.com/ismailfahmi/status/1427817523483799556?ref_src=twsrc%5Etfw">August 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 Cara Kerja Bisnis Hoaks
 
 Mereka yang bisa memanfaatkan komunitas yang percaya pada teori konspirasi dan anti-vaxx, bisa mengeruk keuntungan finansial dengan bisnis hoaks dan sampingannya seperti ini.
