@@ -8,7 +8,7 @@ published: true
 ### - sisakan 90% skeptisisme ketika menerima berita.
 ### - saring dulu sebelum sharing.
 
-Kamus Lengkap Teori Konspirasi
+### Kamus Lengkap Teori Konspirasi
 
 Narasi2 dalam teori konspirasi, anti-vaxxer itu bukan hal baru. Sudah ada sepanjang jaman dan terkumpul pelan-pelan. 
 
@@ -16,7 +16,7 @@ Kalau mau bikin cerita konspirasi yang meyakinkan, tinggal comot narasi2 dari ka
 
 ![hx2.png]({{ site.baseurl }}/images/hx/hx2.png)
 
-Keuntungan Ekonomi
+### Keuntungan Ekonomi
 
 Mereka yang di puncak piramida teori konspirasi dan anti-vaxx mendapat keuntungan ekonomi yang besar. Misal Dr. Mercola, ngajak orang tak percaya vaksin, terus nyuruh beli vitamin dan produk2 bikinannya.
 
@@ -30,13 +30,13 @@ Yang di posisi bawah piramida, mengambil remah-remah keuntungan ekonomi dengan m
 
 <blockquote class="twitter-tweet" data-theme="dark"><p lang="in" dir="ltr">Dengarkan ini baik-baik. Ini tahun 2017, saat itu yang populer nyari duwit adalah dari adsense website. Maka mareka bikin hoaks melalui websites.<br><br>Lalu fast forward ke 2019/2021. Kanal paling populer cari adsense? <br><br>YouTube!<br><br>Maka jadi YouTuber hoaks sudah jadi keniscayaan. <a href="https://t.co/dWp8UhrHho">pic.twitter.com/dWp8UhrHho</a></p>&mdash; Ismail Fahmi (@ismailfahmi) <a href="https://twitter.com/ismailfahmi/status/1427817523483799556?ref_src=twsrc%5Etfw">August 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-Cara Kerja Bisnis Hoaks
+### Cara Kerja Bisnis Hoaks
 
 Mereka yang bisa memanfaatkan komunitas yang percaya pada teori konspirasi dan anti-vaxx, bisa mengeruk keuntungan finansial dengan bisnis hoaks dan sampingannya seperti ini.
 
 ![hx5.png]({{ site.baseurl }}/images/hx/hx5.png)
 
-Masyarakat Umum Korban Hoaks
+### Masyarakat Umum Korban Hoaks
 
 Dan yang menyedihkan adalah yang paling bawah piramida. 
 
@@ -46,7 +46,7 @@ Dalam 3 hari kanal hoaks di YouTube bisa dapat 753k views.
 
 ![hx6.png]({{ site.baseurl }}/images/hx/hx6.png)
 
-Meninggal Karena Hoaks
+### Meninggal Karena Hoaks
 
 Banyak laporan adanya anggota masyarakat, anggota keluarga yang karena percaya hoaks, tidak mau ke rumah sakit, ndak mau diobatin, memilih obat alternatif, dan akhirnya terlambat ditangani dan meninggal.
 
