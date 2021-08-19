@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ![a.png]({{ site.baseurl }}/images/a.png)
 
