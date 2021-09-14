@@ -19,6 +19,7 @@ Umumnya mereka yang menyangkal poin pertama punya pengalaman otoritatif terkait 
 Tapi, kita hargai pasangan-pasangan bersyukur yang menjadikan tragedi kehujanan sebagai sebuah strategi PDKT. Ini menarik. Nggak jarang beberapa buaya darat yang ngegombal, “Aku jemput kamu pakai motor, kita hujan-hujanan biar kayak film India.” Hilih kintil, Mz.
 
 Tim mobil 1:1
+
 #3 Pacaran naik mobil bisa ngobrol intens, naik motor bikin salah paham
 
 Menurut sebuah kitab rahasia, satu dari perkara yang pantang dilakukan ojol motor adalah mengajak ngobrol customer di atas motor. Hal ini hanya akan bikin bete jika obrolannya hanya basa-basi nggak penting, sebab, baik ojol maupun penumpang, mereka harus teriak melawan angin agar suaranya didengar.
@@ -26,6 +27,7 @@ Menurut sebuah kitab rahasia, satu dari perkara yang pantang dilakukan ojol moto
 Susahnya ngobrol naik motor bikin tim pacaran naik mobil girang betul. Kalau naik mobil, mereka bisa ngobrol intens, quality time sambil sesekali cubit hidung pasangan. Ada gemes-gemes yang tersimpan di sela obrolan mereka yang kebanyakan seputar manja-manja mania. Coba kalau pacaran naik motor, jangan coba-coba deh cerita nabi-nabi di atas motor. Bisa-bisa sampai di tempat tujuan, nggak jadi pacaran sebab salah paham.
 
 Tim mobil 2:1 Tim motor
+
 #4 Nggak bisa ngobrol nggak masalah, malah bisa jadi modus
 
 Seorang kawan saya punya alasan yang begitu serius kenapa pacaran naik motor tetap lebih baik walau sepasang muda-mudi bakal kesulitan buat ngobrol. Katanya, “Kalau nggak saling dengar suara masing-masing, malah seru. Bisa dijadikan modus untuk lebih mendekat. Eaaa.” 
@@ -33,6 +35,7 @@ Seorang kawan saya punya alasan yang begitu serius kenapa pacaran naik motor tet
 Sekilas kawan saya memang bangor, tapi dia ada benarnya. Kekurangan seketika bisa jadi kelebihan jika Anda bersama orang kreatif. Mereka yang pacaran di atas motor bisa saling dekat, lebih dekat, lalu pelukan. Semua berawal dari ngobrol yang nggak kedengaran, jarak antara dua insan yang jatuh cinta justru didekatkan.
 
 Tim mobil 2:2 Tim motor
+
 #5 Diakui atau tidak, mobil itu prestise
 
 Kita mungkin cenderung pilih naik motor untuk menghibur diri bahwa sebagian dari kita belum punya mobil meskipun itu pinjaman orang tua. Tapi, kita tidak bisa berbohong bahwa mobil adalah prestise, termasuk untuk mereka yang sedang pacaran.
@@ -40,11 +43,13 @@ Kita mungkin cenderung pilih naik motor untuk menghibur diri bahwa sebagian dari
 Banyak cewek yang memilih didekati cowok bermobil daripada cowok yang pakai motor, meskipun motornya NMax dan Ducati. Masalahnya, naik turun mobil itu tetap membawa prestise yang berbeda ketimbang mengacungkan standar motor saat parkir.
 
 Tim mobil 3:2 Tim motor
+
 #6 Naik motor praktis, nggak bingung parkir, nggak bingung lewat jalan kecil, dan cenderung gesit
 
 Banyak cowok-cowok yang mengaku lebih suka membawa pacarnya jalan-jalan naik motor. Sebab, naik motor itu nggak ribet. Mau tujuannya pergi ke mana pun, gas lah. Sesampainya di tujuan, mereka juga nggak bingung cari tempat parkir. Lagian, bawa motor itu cenderung nggak macet, cepat, apalagi buat mereka yang biasanya terburu-buru, motor adalah pilihan tepat.
 
 Tim mobil 3:3 Tim motor
+
 #7 Naik mobil nggak pegal dan bisa bermesraan tanpa dihakimi pengguna jalan lain
 
 Alasan ini sudah telalu ultimate buat dibantah. Mereka yang pacaran naik mobil belum tentu tidak punya kenangan semanis hujan-hujanan atau berpelukan agar saling dengar. Mereka justru punya lebih banyak kesempatan untuk bermesraan, curi-curi pandang saat macet atau antre lampu merah. Kecup manja dan elus-elus rambut jelas nggak bisa dilakukan mereka yang pacaran naik motor. Lha, ketutup helm!
