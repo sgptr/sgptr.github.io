@@ -1,7 +1,7 @@
 ---
-published: false
+published: true
 ---
-
+![pp.png]({{ site.baseurl }}/images/pp.png)
 
 Kok ya ada yang ngasih solusi beli smartphone murah ketika kaum rentan kesulitan memanfaatkan aplikasi pedulilindungi.
 
@@ -44,3 +44,5 @@ Yah, sayangya, kita semua tahu kenapa e-KTP jadi nggak berguna, tapi kita memili
 Belum lagi soal kebocoran data lewat pedulilindungi. Ketika data Presiden bocor, bisa-bisanya rakyat diwanti-wanti untuk nggak dipakai berbuat jahat. Siapa juga yang berani pakai data Presiden buat daftar pinjol. Sudah diteror pinjol, digrebek BIN lagi.
 
 Suram….
+
+artikel: [mojok.co](mojok.co)
