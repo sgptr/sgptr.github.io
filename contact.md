@@ -7,7 +7,6 @@ published: true
 ### Talk to Sgsaputra
 
 untuk menghubungi saya, silakan kirim email ke [ptrbackup@hotmail.com](https://www.gmail.com).
-jika anda ingin membagikan informasi yg bersifat rahasia kepada saya, silakan **encrypt** email yg anda kirim!!!
 
 informasi **PGPKEY** saya ada dibawah ini:
 
