@@ -6,6 +6,7 @@ published: true
 ---
 Halo 👋.
 
-orang-orang sekitar saya biasa memanggil saya Putra, Saya kuliah di jurusan Sistem Informasi Universitas Gunadarma dan baru lulus setelah 7tahun menjalani masa studi, **"mentok di batas akhir kelulusan😅"**.
+orang-orang sekitar saya biasa memanggil saya Putra, Saya seseorang freshgraduate Sarjana
+Sistem Informasi. mampu memberikan hasil yang baik di setiap project dan cenderung bersemangat dalam Manajemen Sistem Informasi, Teknologi informasi, Analisis sistem, dan pemograman.
 
 **"Kuliah adalah laboratorium kehidupan, dimana berbagai kesalahan yg kita lakukan masih dapat ditoleransi, karena tidak berdampak secara langsung pada kehidupan kita."**
