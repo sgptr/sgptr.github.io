@@ -74,7 +74,7 @@ pernah ga sih kalian menggunakan aplikasi belanja seperti (shoope,tokped,BL dsb)
 
 jujur saya juga menggunakan aplikasi PL ini tetapi hanya untuk keperluan yg dibutuhkan menggunakan aplikasi tersebut, jika sudah selesai pasti akan saya uninstal lagi aplikasinya.
 
-cuma di INDONESIA hal seperti ini dibiarkan, di negara2 lain jika ada kasus seperti ini sudah pasti akan  di jatuhi hukuman atau dikenakan denda, sekelas Facebook aja pernah kena kasus jual beli data pengguna https://www.liputan6.com/news/read/3447123/mark-zukerberg-akui-jual-data-facebook-ke-pihak-ketiga
+cuma di INDONESIA hal seperti ini dibiarkan, di negara2 lain jika ada kasus seperti ini sudah pasti akan  di jatuhi hukuman atau dikenakan denda, sekelas Facebook aja pernah kena kasus jual beli data pengguna [https://www.liputan6.com/news/read/3447123/mark-zukerberg-akui-jual-data-facebook-ke-pihak-ketiga](https://www.liputan6.com/news/read/3447123/mark-zukerberg-akui-jual-data-facebook-ke-pihak-ketiga)
 
 
 terima kasih untuk [@BukanYahya](https://twitter.com/BukanYahya/status/1442355427627335684) dan [Teguh Aprianto](https://twitter.com/secgron/status/1442142118554660867) atas informasinya.
