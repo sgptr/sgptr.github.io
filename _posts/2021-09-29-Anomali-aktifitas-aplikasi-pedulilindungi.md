@@ -47,6 +47,7 @@ ngiseng cek di virus total juga ada yang nyebut anomali, jadi vendornya itu `htt
 
 ![pl10.png]({{ site.baseurl }}/images/pl/pl10.png)
 
+[Teguh Aprianto](https://twitter.com/secgron/status/1442142118554660867)
 
 Buat yang ga paham, jadi aplikasi PL itu mengirimkan data pengguna ke sebuah server yang menggunakan domain http://analytic.rocks.
 
@@ -65,8 +66,6 @@ Jadi bisa dikatakan http://analytic.rocks ini adalah web app analytics milik Tel
 Selain itu http://analytic.rocks ini linked dengan http://cfs.uzone.id dan juga SmartEye, keduanya milik Metranet, anak usaha Telkom.
 
 Jadi data pengguna PL dialihkan utk kepentingan bisnis metranet yg salah satu produknya adalah digital advertising. 
-
-[Teguh Aprianto](https://twitter.com/secgron/status/1442142118554660867)
 
 
 bagi sebagian orang awam sepertinya temuan ini tidak berpengaruh apa-apa, tapi saya akan sedikit menjelaskan kenapa kejadian ini sangat penting untuk kita ketahui.
