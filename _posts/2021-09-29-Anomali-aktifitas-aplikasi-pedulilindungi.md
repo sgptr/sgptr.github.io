@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ![pl.png]({{ site.baseurl }}/images/pl/pl.png)
 
@@ -79,8 +79,3 @@ cuma di INDONESIA hal seperti ini dibiarkan, di negara2 lain jika ada kasus sepe
 
 
 terima kasih untuk [@BukanYahya](https://twitter.com/BukanYahya/status/1442355427627335684) dan [Teguh Aprianto](https://twitter.com/secgron/status/1442142118554660867) atas informasinya.
-
-
-
-
-
