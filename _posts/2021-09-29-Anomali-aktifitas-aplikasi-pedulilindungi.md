@@ -67,11 +67,6 @@ Selain itu http://analytic.rocks ini linked dengan http://cfs.uzone.id dan juga 
 
 Jadi data pengguna PL dialihkan utk kepentingan bisnis metranet yg salah satu produknya adalah digital advertising. 
 
-
-bagi sebagian orang awam sepertinya temuan ini tidak berpengaruh apa-apa, tapi saya akan sedikit menjelaskan kenapa kejadian ini sangat penting untuk kita ketahui.
-
-pernah ga sih kalian menggunakan aplikasi belanja seperti (shoope,tokped,BL dsb) sudah pasti sering kan? nah secara tidak langsung saat kita menginstal aplikasi peduli lindungi yg saat ini diwajibkan untuk di gunakan diberbagai aktifitas, aplikasi tersebut secara diam2 mengirimkan berbagai data ke salah satu aset yg dimiliki oleh TELKOM, lalu apa gunanya aplikasi PL mengirim data ke aset anonim milik TELKOM? pernah ga saat kalian membuka aplikasi apa saja yg berisi iklan, iklan tersebut sesuai dengan barang yg ingin kita beli di salah satu aplikasi belanja online, atau saat kalian search Google tiba2 Google tau apa yg mau kita cari? jadi secara tak kasat mata aplikasi PEDULI LINDUNGI ini mengambil berbagai data history yg kita lakukan pada saat kita beraktifitas mobile, dengan mengumpulkanya data history tersebut data itu lalu bisa dijual ke seluruh penyedia digital advertising. misal 1 data history dari 1 handphone harganya 200 rupiah dikalikan dengan jumlah pengguna aplikasi PL yg saat ini sudah di download 10juta kali, berapa kira2 keuntungan yg didapat pihak tersebut?  200 x 10.000.000 = 2.000.000.000 (2miliar). Mantap kan dapetnya. Ya bisa dibilang aplikasi peduli lindungi ini termasuk massive growth hacknya telkom yg paling sukses!!!
-
 jujur saya juga menggunakan aplikasi PL ini tetapi hanya untuk keperluan yg dibutuhkan menggunakan aplikasi tersebut, jika sudah selesai pasti akan saya uninstal lagi aplikasinya.
 
 cuma di INDONESIA hal seperti ini dibiarkan, di negara2 lain jika ada kasus seperti ini sudah pasti akan  di jatuhi hukuman atau dikenakan denda, sekelas Facebook aja pernah kena kasus jual beli data pengguna [https://www.liputan6.com/news/read/3447123/mark-zukerberg-akui-jual-data-facebook-ke-pihak-ketiga](https://www.liputan6.com/news/read/3447123/mark-zukerberg-akui-jual-data-facebook-ke-pihak-ketiga)
