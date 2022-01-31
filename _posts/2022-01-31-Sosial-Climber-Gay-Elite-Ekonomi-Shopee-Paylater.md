@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ![sc1.png]({{ site.baseurl }}/images/sc1.png)
 
@@ -30,12 +30,3 @@ Mengingat social climber ini merupakan kelainan sosiologis dan psikologis, bisa 
 Kelainan social climber  ini sangat membahayakan. Sebab mereka bisa melakukan apa saja dengan melakukan perbuatan negatif. Dalam skala besar, orang yang memiliki kedudukan, untuk bisa dikatakan 'wah', mereka akan melakukan korupsi. Dengan usaha instant, mereka melakukan penipuan terhadap orang lain. Tidak hanya kepada orang yang tak dikenal, orang-orang terdekat seperti saudara, teman, dan sahabat bisa jadi korbannya.
 
 Kelainan ini sebenarnya bisa diobati. Obat yang paling manjur adalah Sabar dan Syukur. Dengan dua hal tersebut akan menjadikan orang lebih giat bekerja dan kerja keras. Selalu mensyukuri apa yang dimiliki dan selalu sabar untuk mencapai apa yang ingin dimiliki tanpa terburu-buru. Selain itu segala sesuatu yang dimiliki karena kebutuhan bukan karena ingin dipamerkan.
-
-
-
-
-
-
-
-
-
