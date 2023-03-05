@@ -4,13 +4,10 @@ title: Tentang Sgsaputra
 permalink: /about/
 published: true
 ---
-Halo 👋.
+Halo, salam kenal 👋.
 
-orang-orang sekitar saya biasa memanggil saya Putra, lulusan Sistem Informasi. cenderung bersemangat dalam Manajemen Sistem Informasi, Teknologi informasi, Analisis sistem, Analisis Software.
+Nama saya Putra. Saya adalah seorang Software Quality Assurance disalah satu Bank BUMN di Indonesia, Tugas Saya menguji kualitas sebuah software. Umumnya saya dan Team akan menganalisis kualitas software dengan mencari Bug/kesalahan coding serta masalah lainya yg mempengaruhi kinerja software tersebut.
 
-**"Kuliah adalah laboratorium kehidupan, dimana berbagai kesalahan yg kita lakukan masih dapat ditoleransi, karena tidak berdampak secara langsung pada kehidupan kita."**
+Diluar pekerjaan saya juga aktif mengikuti kegiatan sosial di lingkungan masyarakat, diantaranya saya ikut menjadi anggota Kepemudaan Karang Taruna di wilayah tempat tinggal saya.
 
-              
-
-
-
+"## Doa Ibu itu Lebih Luas Dari Pada Langit, Dimanapun Saya Berada, Saya berteduh Dibawahnya"
