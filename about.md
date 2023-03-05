@@ -10,4 +10,4 @@ Nama saya Putra. Saya adalah seorang Software Quality Assurance disalah satu Ban
 
 Diluar pekerjaan saya juga aktif mengikuti kegiatan sosial di lingkungan masyarakat, diantaranya saya ikut menjadi anggota Kepemudaan Karang Taruna di wilayah tempat tinggal saya.
 
-"## Doa Ibu itu Lebih Luas Dari Pada Langit, Dimanapun Saya Berada, Saya berteduh Dibawahnya"
+## Doa Ibu itu Lebih Luas Dari Pada Langit, Dimanapun Saya Berada, Saya berteduh Dibawahnya
