@@ -37,7 +37,7 @@ Akan semakin jelas apabila diklik. Alamat palsu mengarah ke situs palsu dengan s
 Bank yang masih memakai domain .com disarankan untuk segera pindah ke domain .id atau .co.id. Sebab sejauh ini penggunaan karakter huruf Cyrillic hanya bisa dipakai di domain .com saja. Penyedia jasa domain Pengelola Nama Domain Internet Indonesia (PANDI) dan sudah memblokir karakter huruf Cyrillic.
 
 Baca ini agar punya gambaran spt apa domain name yg terbentuk dr character non latin.
-https://en.m.wikipedia.org/wiki/Internationalized_domain_name
+[https://en.m.wikipedia.org/wiki/Internationalized_domain_name]()
 
 Bagaimana agar tidak terpancing untuk mengklik alamat domain palsu?
 
